@@ -1,9 +1,8 @@
 {
   "swagger": "2.0",
   "info": {
-    "description": "<script>alert('XSS PoC')</script>",
-    "version": "1.0.0",
-    "title": "XSS Test"
+    "title": "⚠️ Swagger Config Hijacked",
+    "description": "**External config loaded!**"
   },
   "paths": {}
 }
