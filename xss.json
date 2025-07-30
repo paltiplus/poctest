@@ -1,0 +1,9 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "<script>alert('XSS PoC')</script>",
+    "version": "1.0.0",
+    "title": "XSS Test"
+  },
+  "paths": {}
+}
